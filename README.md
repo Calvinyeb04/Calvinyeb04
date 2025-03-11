@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Calvin Yeboah
 =====================================================================================================================================
 
-I’m a passionate Information Technology student with a minor in Computer Science at the University of Cincinnati. I’ve been honing my skills through building full-stack applications, solving complex problems, and collaborating on projects that bridge front-end and back-end development.
+I’m a passionate Computer Science student with a minor in Information Technology at the University of Cincinnati. I’ve been honing my skills through building full-stack applications, solving complex problems, and collaborating on projects that bridge front-end and back-end development.
 
 * 🌍  I'm based in Cincinnati, OH
 * ✉️  You can contact me at [yeboahcalvin04@gmail.com](mailto:yeboahcalvin04@gmail.com)
