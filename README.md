@@ -7,7 +7,6 @@ I’m a passionate Computer Science student with a minor in Information Technolo
 * ✉️  You can contact me at [yeboahcalvin04@gmail.com](mailto:yeboahcalvin04@gmail.com)
 * 🧠  I'm learning Advanced cloud solutions (AWS) and deepening my knowledge of DevOps tools.
 * 🤝  I'm open to collaborating on Full-stack projects
-* ⚡  I’m fascinated by AI and cloud technologies… but I still secretly believe I might be Spiderman 🕸️.
 
 ### Skills
 
